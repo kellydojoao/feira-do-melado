@@ -8,6 +8,15 @@
     font-family: 'Poppins', sans-serif;
 }
 
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0; /* Remove margens padrão do body */
+}
+
 /* Navegação */
 nav{
     background-color: #18929D;
